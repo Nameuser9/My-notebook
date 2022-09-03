@@ -1,0 +1,15 @@
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\bin\Debug\net6.0\ЗАдание5.exe
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\bin\Debug\net6.0\ЗАдание5.deps.json
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\bin\Debug\net6.0\ЗАдание5.runtimeconfig.json
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\bin\Debug\net6.0\ЗАдание5.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\bin\Debug\net6.0\ЗАдание5.pdb
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.csproj.AssemblyReference.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.AssemblyInfoInputs.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.AssemblyInfo.cs
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.csproj.CoreCompileInputs.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\refint\ЗАдание5.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.pdb
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ЗАдание5.genruntimeconfig.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\ЗАдание5\obj\Debug\net6.0\ref\ЗАдание5.dll
